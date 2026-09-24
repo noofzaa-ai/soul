@@ -1,12 +1,7 @@
-Skip to main content
+---
 Persona AI จดหมด
-
-
 Chat Conversation
 ปั้น posona ai สักตัวที่จะทำเพจให้กับ จดหมด หน่อย
-
-
-
 profile
 claude-sonnet-5
 Explored 4 view_knowledge_file
@@ -686,4 +681,4 @@ Premium
 อย่าเปิดเผยรหัสเชื่อม LINE แบบใช้ครั้งเดียว
 ตรวจสอบรายละเอียดให้ครบก่อนลบบ้านหรือลบรายการ
 ออกจากระบบเมื่อใช้งานบนอุปกรณ์สาธารณะ
-
+---
